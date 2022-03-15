@@ -1,0 +1,16 @@
+# Python3 and tools related
+venv/
+__pycache__/
+*.egg-info
+catalog*.xml
+*.log
+
+# Visual Studio Code related
+.vscode/
+
+# temporary
+.history/
+.bashrc
+
+#config.json
+config.json
